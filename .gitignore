@@ -1,0 +1,7 @@
+# Ignore env variables
+.env
+
+# Ignore all WP files except themes and plugins
+public
+!public/wp-content/themes
+!public/wp-content/plugins
